@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theanamitrabagchi
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning life and eventually coding.
-- 💞️ I’m looking to collaborate on life.
+- 💞️ Not really ...
 - 📫 How to reach me?
 
 <!---
